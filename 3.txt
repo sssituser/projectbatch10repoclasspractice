@@ -1,0 +1,12 @@
+class Login{
+	string username;
+	string password
+	public bool login()[
+
+	}
+}
+
+from Django import models
+class Employee(models.Model):
+     EmpId = models.IntegerField()
+     EmpName = models.CharField(max_length=100)
