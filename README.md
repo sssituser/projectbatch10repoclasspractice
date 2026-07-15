@@ -1,1 +1,0 @@
-# projectbatch10repoclasspractice
