@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 story - 122
 class Register
 {
@@ -5,3 +6,13 @@ class Register
 	string password;
 	strin email;
 }
+=======
+story- 121
+
+class Login {
+	string username;
+	string password;
+	// I have complete login business logic
+}
+
+>>>>>>> Stashed changes
