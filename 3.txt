@@ -1,3 +1,10 @@
+
 story 2
 
 completed the story 2 in 4 hours
+Story 1
+
+class Login{
+	abc completed
+}
+
